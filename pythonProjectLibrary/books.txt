@@ -1,0 +1,8 @@
+Madame Bovary,Gustave Flaubert,1856,408
+Ask ve Gurur,Jane Austen,1813,456
+Suç ve Ceza,Fyodor Dostoyesvski,1866,687
+Satranç,Stefan Zweig,1941,83
+Tutunamayanlar,Oguz Atay,1971,724
+Yabancý,Albert Camus,1942,110
+Kürk Mantolu Madonna,Sabahattin Ali,1934,160
+Sineklerin Tanrýsý,William Golding,1954,261
